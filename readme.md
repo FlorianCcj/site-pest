@@ -1,6 +1,5 @@
 # Refonte du site de pest
-* Maker : [Palmade Florian](https://github.com/FlorianCcj)
-* With the help of : [Mougne Laura](https://github.com/LauraMgne), Robinson le mec qui a faim, et Junie Polaire
+* Made by : [Palmade Florian](https://github.com/FlorianCcj), [Mougne Laura](https://github.com/LauraMgne), Robinson le mec qui a faim, et Junie Polaire
 * Duration : 2016-Apr-... to current
 * Context : The website of the SLA of gnagnagna, want a more ergonomic website but keeping some structure
 
