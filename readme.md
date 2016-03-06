@@ -13,22 +13,25 @@
 - wiki (pour toute les questions qu'ont pourrait se poser)
 - forum (pour debattre organiser ...)
 - calendrier
-(- doodle) 
 - archive/galerie photo
-- divers
+
+### en tete
+- lien vers chaque partie
+- lien divers
 - logo (en lien le site national)
 
-### forum and wiki
-le forum et le wiki sont heberges sur des sites, il faudra les importer
+### vitrine : 
+(- rendre customisable par le common weilth)
+- potentiellement base avec wordpress
+- 6 institutionnel
 
 ### Blog
 - blog switch wordpress
 - page specialisé et courant 
 - calcage sur le courant
 
-### vitrine : 
-(- rendre customisable par le common weilth)
-- 6 institutionnel
+### forum and wiki
+le forum et le wiki sont heberges sur des sites, il faudra les importer
 
 ### calendrier : 
 - permettre l'inscription 
