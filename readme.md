@@ -13,14 +13,22 @@
 - wiki (pour toute les questions qu'ont pourrait se poser)
 - forum (pour debattre organiser ...)
 - calendrier
-- doodle 
+(- doodle) 
 - archive/galerie photo
+- divers
+- logo (en lien le site national)
 
-### Blog, forum and wiki
-le blog, le forum et le wiki sont heberges sur des sites, il faudra les importer
+### forum and wiki
+le forum et le wiki sont heberges sur des sites, il faudra les importer
+
+### Blog
+- blog switch wordpress
+- page specialisé et courant 
+- calcage sur le courant
 
 ### vitrine : 
-- rendre customisable par le common weilth
+(- rendre customisable par le common weilth)
+- 6 institutionnel
 
 ### calendrier : 
 - permettre l'inscription 
@@ -28,14 +36,14 @@ le blog, le forum et le wiki sont heberges sur des sites, il faudra les importer
    * des parents course
    * des responses
    * des enfants
-   * lien wiki vers fiche de route
-- permettre la synchronisation avec outlook, chrome, et autre
+   * event (lien wiki vers fiche de route+ date et lieu de la reu de preparation, deadline d'inscription (+menu), lieu et heure de rdv)
+- permettre la synchronisation avec outlook, google, et autre
 
 ### photo :
-- upload facile
+- upload facile (fichier ou dossier)
 - organisation par date/activite/photographe
 - redimmensionnage et affichage simple et leger
-- tellechargement par zip
+- tellechargement par zip sur autorisation (blocage du telechargement)
 
 ### more
 systeme de newsletter (inscription desinscription) 
