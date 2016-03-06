@@ -30,9 +30,14 @@ le blog, le forum et le wiki sont heberges sur des sites, il faudra les importer
    * des responses
    * des enfants
    * lien wiki vers fiche de route
+- permettre la synchronisation avec outlook, chrome, et autre
 
 ### photo :
 - upload facile
 - organisation par date/activite/photographe
 - redimmensionnage et affichage simple et leger
 - tellechargement par zip
+
+### more
+systeme de newsletter (inscription desinscription) 
+envoit de notif si changement de programme
