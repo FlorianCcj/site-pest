@@ -52,6 +52,9 @@ le forum et le wiki sont heberges sur des sites, il faudra les importer
 systeme de newsletter (inscription desinscription) 
 envoit de notif si changement de programme
 
+inscription a l'asso via le site
+impression pdf possible de la fiche d'inscription/fiche sanitaire
+
 gestion des menus
 * ingredient
 * quantité par respo/aine/ecle/loup
@@ -61,3 +64,5 @@ gestion des menus
 
 
 partie plus respo, avec activité
+
+une section betise : les responses racontent les betises des enfants (sans donner de nom)
