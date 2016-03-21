@@ -52,4 +52,12 @@ le forum et le wiki sont heberges sur des sites, il faudra les importer
 systeme de newsletter (inscription desinscription) 
 envoit de notif si changement de programme
 
-liste des courses
+gestion des menus
+* ingredient
+* quantité par respo/aine/ecle/loup
+* prix generique
+* archive de menu
+* rangement par rayon
+
+
+partie plus respo, avec activité
