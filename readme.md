@@ -40,6 +40,7 @@ le forum et le wiki sont heberges sur des sites, il faudra les importer
    * des responses
    * des enfants
    * event (lien wiki vers fiche de route+ date et lieu de la reu de preparation, deadline d'inscription (+menu), lieu et heure de rdv)
+   * evenement autre qui ne sont pas du groupe (rassemblement entre autre)
 - permettre la synchronisation avec outlook, google, et autre
 
 ### photo :
@@ -61,8 +62,11 @@ gestion des menus
 * prix generique
 * archive de menu
 * rangement par rayon
-
+export en csv
 
 partie plus respo, avec activité
+decma : des comptes, permettant d'acceder au mail, numero, reseau sociaux des autres pour les contacter facilement
+ajout : permettre au gens de choisir s'ils veulent etre averti si un message privé est arrivé ou nom
+permettre de choisir si l'on veut partager le numero de tel, mail, autre
 
 une section betise : les responses racontent les betises des enfants (sans donner de nom)
