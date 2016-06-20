@@ -70,3 +70,6 @@ ajout : permettre au gens de choisir s'ils veulent etre averti si un message pri
 permettre de choisir si l'on veut partager le numero de tel, mail, autre
 
 une section betise : les responses racontent les betises des enfants (sans donner de nom)
+
+
+Proposition par Camille utiliser https://trello.com/ plutot qu'un forum
