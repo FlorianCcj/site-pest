@@ -73,3 +73,13 @@ une section betise : les responses racontent les betises des enfants (sans donne
 
 
 Proposition par Camille utiliser https://trello.com/ plutot qu'un forum
+
+http://garradin.eu/
+
+http://noethys.com/index.php/faq/4-sous-quelle-license-est-distribue-noethys
+ 
+http://idl-mp.com/2013/02/gerer-son-association-sereinement/
+ 
+et..payant mais chouette / cloud :
+http://gerer-mon-association.fr/prix-logiciel-gestion-association
+ 
