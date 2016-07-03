@@ -65,6 +65,7 @@ Dans la partie visible par tous :
 	* Tranche d'age concerné ;
 - on peut choisir une vue evennement/quotidienne/hebdomadaire/mensuelle ;
 - Affichage du calendrier choisi, on peut afficher un ou plusieur calendrier.
+
 ### Privé
 Dans la partie privé on a 
 - Comme éléments supplémentaires
@@ -124,21 +125,25 @@ Panneau d'administration permettant de gerer les droits
 
 ## Gestion du tri
 La gestion des entités se fait par arboressence.
+
 Il y a des catégories, des sous catégories etc.
+
 Attention une sous catégorie peut appartenir a plusieurs catégorie (exemple : Kumar qui est dans conseil et parent ainé ... pas un exemple pour catégorie mais que pour personne :S)
 ### Gestion des categories (Pages, Articles)
 ### Gestion des Types (Evenement)
 ### Gestion des Tranches d'age
 
 ## Intendance
-### Ingrediant
+### Ingredient
 - Ingredient
 - Packaging
 - Prix/kilo
 - Quantité souhaité
 - Quantité/(loup/ecle/ainé/adulte)
+
 ### Menu
 - Menu antérieur
+
 ### Plat
 - Permet de d'avoir dirrectement les différents ingrédients (reste réglable et avec un bouton reset si l'on veut remettre les quantité par défaut)
 
@@ -146,6 +151,7 @@ Attention une sous catégorie peut appartenir a plusieurs catégorie (exemple : 
 - matériel présent au week-end matériel sorti (en reference au matériel demndé pour un evenemnt)
 - matériel abimé
 - matériel a acheter
+
 ### Liste de matériel
 - composition
 - prix
