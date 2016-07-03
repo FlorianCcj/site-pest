@@ -23,7 +23,6 @@
 ### Public
 Catégorie de page
 Hiérarchie dans le menu, facilement accessible (si peu de page tout affiché, si beaucoup de page la catégorie est un lien qui affiche la présentation de la catégorie et à coté un + ou une fleche pour afficher les pages contenu)
-
 ### Privé
 Vue des pages créés -> CRUD
 Edition comme sous word
@@ -58,9 +57,10 @@ Element :
 - Lieu
 - Type (Reunion, Sortie, Week-end, )
 - Tranche d'age concerné
-- Matériel
+- Matériel (triple pointage : début envent, response matos, fin event)
 - Intendance (par tranche d'age reglable par equipage)
-- Présence (mode doodle)
+- Présence participant (mode doodle, validation)
+- Présence staff (mode doodle, validation)
 ### Public
 - Vue evennement/quotidienne/hebdomadaire/mensuelle
 ### Privé
@@ -70,7 +70,28 @@ Element :
 - demande de notif
 
 ## Wiki+Doc
+###Wiki
 hum ... quand j'y refléchit ca revient aux pages dans lesquelles "tout le monde" pourrait écrire
+### Dépot documentaire
+- doc inscription
+	* camp
+		- hiver
+		- primptemps
+		- été
+	* année
+	* sanitaire
+- doc peda
+	* fiche d'activité
+	* doc offi
+		- statut
+		- PE
+		- PP
+		- docs
+- lieu
+	* fiche de route
+	* descriptiof
+- organigramme bureau
+- trombi inscrit
 
 ## Page Partie Privé
 ### Accueuil
@@ -120,3 +141,4 @@ Attention une catégorie peut appartenir a plusieurs sur catégorie (exemple : Kum
 - marquage
 
 ## Compta
+## Galerie photo
