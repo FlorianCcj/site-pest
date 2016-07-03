@@ -13,11 +13,17 @@
 //!\\ la version smartphone
 - application smartphone
 
+## General
+- Un menu avec chaque partie + event soit a venir soit en cours (pour gestion de l'intencdance/compta de camp)
+- Le logo (avec lien vers le site national)
+- Le menu general et le menu de la partie retractable
+- Barre de recherche qui cherche dans TOUTES les parties (meme les events du calendrier)
+
 ## Page
 ### Public
 Catégorie de page
 Hiérarchie dans le menu, facilement accessible (si peu de page tout affiché, si beaucoup de page la catégorie est un lien qui affiche la présentation de la catégorie et à coté un + ou une fleche pour afficher les pages contenu)
-Recherche
+
 ### Privé
 Vue des pages créés -> CRUD
 Edition comme sous word
@@ -42,7 +48,6 @@ Previsualisation en temps réel
 ### Public 
 Catégorie
 Tranche d'age
-Recherche
 ### Privé
 Comme une page
 Creation/Edition soumis a validation (Modérateur)
@@ -51,9 +56,11 @@ Creation/Edition soumis a validation (Modérateur)
 Element :
 - Date et heure
 - Lieu
-- Type (Reunion)
+- Type (Reunion, Sortie, Week-end, )
 - Tranche d'age concerné
-- Recherche
+- Matériel
+- Intendance (par tranche d'age reglable par equipage)
+- Présence (mode doodle)
 ### Public
 - Vue evennement/quotidienne/hebdomadaire/mensuelle
 ### Privé
@@ -82,6 +89,34 @@ CRUD+Validation Categorie
 CRUD+Validation Type
 CRUD+Validation Tranche d'age
 
-## Gestion des categories (Pages, Articles)
-## Gestion des Types (Evenement)
-## Gestion des Tranches d'age
+## Gestion du tri
+Gestion arboressente 
+catégorie sous catégorie etc.
+Attention une catégorie peut appartenir a plusieurs sur catégorie (exemple : Kumar qui est dans conseil et parent ainé ... pas un exemple pour catégorie mais que pour personne :S)
+### Gestion des categories (Pages, Articles)
+### Gestion des Types (Evenement)
+### Gestion des Tranches d'age
+
+## Intendance
+### Ingrediant
+- Ingredient
+- Packaging
+- Prix/kilo
+- Quantité souhaité
+- Quantité/(loup/ecle/ainé/adulte)
+### Menu
+- Menu antérieur
+### Plat
+- Permet de d'avoir dirrectement les différents ingrédients (reste réglable et avec un bouton reset si l'on veut remettre les quantité par défaut)
+
+## Gestion du matériel
+- matériel présent au week-end matériel sorti (en reference au matériel demndé pour un evenemnt)
+- matériel abimé
+- matériel a acheter
+### Liste de matériel
+- composition
+- prix
+- état
+- marquage
+
+## Compta
