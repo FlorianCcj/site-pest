@@ -25,13 +25,14 @@ Le sites institutionnel
 Dans le menu des pages institutionnel elles seront trié grace a :
 - Des catégories pour ranger facilement les pages ; 
 - Une hiérarchie dans le menu, facilement accessible (si peu de page toutes sont affichées, si beaucoup de page la catégorie est un lien qui affiche la présentation de la catégorie et à coté un + ou une fleche pour afficher les pages repertoriés dan cette catégorie).
+
 ### Privé
 Pour les modifications
 Des miniatures de chaques page avec en petit un bouton pour éditer supprimer ou afficher la page en vue temporaire.
 #### Editions
 Edition comme sous word
 - police
-- taille
+- taille (de 6 à 22)
 - gras, souligné (avec les type de soulignement), italique, barré
 - indice exposant
 - effacer le style
@@ -40,7 +41,7 @@ Edition comme sous word
 - allignement droite, milieu, gauche
 - bordure
 Insertion 
-- image
+- image (remise en forme automatiquement)
 - tableau (allignement dans le tableau)
 - url
 - note en bas de page
@@ -50,9 +51,14 @@ Une sous fenetre permettant une previsualistion en temps réel
 ## Blog
 ### Public 
 La partie public sera relativement comme pour les pages.
+
 Penser à n'afficher qu'une partie du message ou un résumé.
+
+Comentaire (penser aux indésirables)
+
 ### Privé
 Comme pour les pages.
+
 Ajouter à cela la selection de catégorie, la tranche d'age visée, la tranche d'age qui ne dois pas voir l'article.
 
 ## Calendrier
@@ -102,21 +108,26 @@ hum ... quand j'y refléchit ca revient aux pages dans lesquelles "tout le monde
 - organigramme bureau (généré automatique grace aux données personnelles : fonctions) ;
 - trombi inscrit (généré automatique grace aux données personnelles : fonctions, équipage, etc.) ;
 
-## Page Partie Privé
-### Accueuil
+## Espace Personnel
+Lors de modification de l'espace personnel (en particulier la tranche d'age) soumission a validation
+### Accueil
 Affichage de la liste des articles/pages/etc. modifiables
 ### Menu
 - Paramettre perso ;
 	* tranche d'age ;
 	* equipage ;
-	* fonction .
+	* fonction ;
+	* Diplome (plus renouvellable) ;
+	* Badge ;
+	* cv ;
+	* statistique de présence.
 - Entités modifiables dans le blog ;
 - Entités modifiables dans les pages ;
 - Entités modifiables dans le wiki ;
 - Entités modifiables dans le calendrier.
 
 ## Gestion des droits
-Panneau d'administration permettant de gerer les droits 
+Panneau d'administration permettant de gerer les droits (personne/tranche d'age/fonction)
 - CRUD+Validation Page
 - CRUD+Validation Blog
 - CRUD+Validation Categorie
@@ -134,6 +145,7 @@ Attention une sous catégorie peut appartenir a plusieurs catégorie (exemple : 
 ### Gestion des Tranches d'age
 
 ## Intendance
+Stock restant au local
 ### Ingredient
 - Ingredient
 - Packaging
@@ -148,7 +160,8 @@ Attention une sous catégorie peut appartenir a plusieurs catégorie (exemple : 
 - Permet de d'avoir dirrectement les différents ingrédients (reste réglable et avec un bouton reset si l'on veut remettre les quantité par défaut)
 
 ## Gestion du matériel
-- matériel présent au week-end matériel sorti (en reference au matériel demndé pour un evenemnt)
+séparer le matériel de camp et le matériel de week-end.
+- matériel présent au week-end matériel sorti (en reference au matériel demandé pour un evenemnt)
 - matériel abimé
 - matériel a acheter
 
@@ -158,5 +171,14 @@ Attention une sous catégorie peut appartenir a plusieurs catégorie (exemple : 
 - état
 - marquage
 
+### Equiper nos responsables
+- smartphone
+
 ## Compta
 ## Galerie photo
+
+## Archivage
+Archivage toutes les données de l'année 2000 sont archivés au 1 mars 2001
+
+## Application smartphone
+Acces hors ligne
