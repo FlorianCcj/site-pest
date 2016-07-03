@@ -64,7 +64,7 @@ Dans la partie visible par tous :
 	* Type (Reunion, Sortie, Week-end, etc.) ;
 	* Tranche d'age concerné ;
 - on peut choisir une vue evennement/quotidienne/hebdomadaire/mensuelle ;
-- Affichage du calendrier choisi, on peut afficher un ou plusieur calendrier.
+- Affichage du calendrier choisi, on peut afficher un ou plusieur calendrier
 ### Privé
 Dans la partie privé on a 
 - Comme éléments supplémentaires
