@@ -1,14 +1,14 @@
-## Les différentes parties importantes
+## Les diffÃ©rentes parties importantes
 - Les pages (site institutionnel)
 - Blog
 - Wiki + Doc
 - Calendrier
-- Matériel
+- MatÃ©riel
 - Intendance
-- Infos légales
+- Infos lÃ©gales
 - Contacts
 - lien divers
-- La messagerie instantanée
+- La messagerie instantanÃ©e
 
 //!\\ la version smartphone
 - application smartphone
@@ -22,21 +22,21 @@
 ## Page
 Le sites institutionnel
 ### Public
-Dans le menu des pages institutionnel elles seront trié grace a :
-- Des catégories pour ranger facilement les pages ; 
-- Une hiérarchie dans le menu, facilement accessible (si peu de page toutes sont affichées, si beaucoup de page la catégorie est un lien qui affiche la présentation de la catégorie et à coté un + ou une fleche pour afficher les pages repertoriés dan cette catégorie).
-### Privé
+Dans le menu des pages institutionnel elles seront triÃ© grace a :
+- Des catÃ©gories pour ranger facilement les pages ; 
+- Une hiÃ©rarchie dans le menu, facilement accessible (si peu de page toutes sont affichÃ©es, si beaucoup de page la catÃ©gorie est un lien qui affiche la prÃ©sentation de la catÃ©gorie et Ã  cotÃ© un + ou une fleche pour afficher les pages repertoriÃ©s dan cette catÃ©gorie).
+### PrivÃ©
 Pour les modifications
-Des miniatures de chaques page avec en petit un bouton pour éditer supprimer ou afficher la page en vue temporaire.
+Des miniatures de chaques page avec en petit un bouton pour Ã©diter supprimer ou afficher la page en vue temporaire.
 #### Editions
 Edition comme sous word
 - police
 - taille
-- gras, souligné (avec les type de soulignement), italique, barré
+- gras, soulignÃ© (avec les type de soulignement), italique, barrÃ©
 - indice exposant
 - effacer le style
 - surbrillance, couleur de police
-- liste, liste ordonnées
+- liste, liste ordonnÃ©es
 - allignement droite, milieu, gauche
 - bordure
 Insertion 
@@ -45,51 +45,51 @@ Insertion
 - url
 - note en bas de page
 
-Une sous fenetre permettant une previsualistion en temps réel
+Une sous fenetre permettant une previsualistion en temps rÃ©el
 
 ## Blog
 ### Public 
 La partie public sera relativement comme pour les pages.
-Penser à n'afficher qu'une partie du message ou un résumé.
-### Privé
+Penser Ã  n'afficher qu'une partie du message ou un rÃ©sumÃ©.
+### PrivÃ©
 Comme pour les pages.
-Ajouter à cela la selection de catégorie, la tranche d'age visée, la tranche d'age qui ne dois pas voir l'article.
+Ajouter Ã  cela la selection de catÃ©gorie, la tranche d'age visÃ©e, la tranche d'age qui ne dois pas voir l'article.
 
 ## Calendrier
 ### Public
 Dans la partie visible par tous :
-- Les éléments visibles sont 
+- Les Ã©lÃ©ments visibles sont 
 	* Date et heure ;
 	* Lieu ;
 	* Type (Reunion, Sortie, Week-end, etc.) ;
-	* Tranche d'age concerné ;
+	* Tranche d'age concernÃ© ;
 - on peut choisir une vue evennement/quotidienne/hebdomadaire/mensuelle ;
-- Affichage du calendrier choisi, on peut afficher un ou plusieur calendrier
-### Privé
-Dans la partie privé on a 
-- Comme éléments supplémentaires
-	* Matériel (triple pointage : début envent, response matos, fin event) ;
+- Affichage du calendrier choisi, on peut afficher un ou plusieur calendrier.
+### PrivÃ©
+Dans la partie privÃ© on a 
+- Comme Ã©lÃ©ments supplÃ©mentaires
+	* MatÃ©riel (triple pointage : dÃ©but envent, response matos, fin event) ;
 	* Intendance (par tranche d'age reglable par equipage) : lien vers le menu ;
-	* Présence participant (mode doodle, validation) ;
-	* Présence staff (mode doodle, validation).
+	* PrÃ©sence participant (mode doodle, validation) ;
+	* PrÃ©sence staff (mode doodle, validation).
 - Inscription a un evenemnt ;
-- Inscription de quelqu'un d'autre à un evenement (note mentionnant qui l'a inscrit, envoit une notification à la personne inscrite permatant de confirmer ou d'infirmer) ;
+- Inscription de quelqu'un d'autre Ã  un evenement (note mentionnant qui l'a inscrit, envoit une notification Ã  la personne inscrite permatant de confirmer ou d'infirmer) ;
 - ouvert aux personnes exterieur ;
 - demande de notif.
 
 ## Wiki+Doc
 ###Wiki
-hum ... quand j'y refléchit ca revient aux pages dans lesquelles "tout le monde" pourrait écrire
-### Dépot documentaire
+hum ... quand j'y reflÃ©chit ca revient aux pages dans lesquelles "tout le monde" pourrait Ã©crire
+### DÃ©pot documentaire
 - doc inscription
 	* camp
 		- hiver
 		- primptemps
-		- été
-	* année
+		- Ã©tÃ©
+	* annÃ©e
 	* sanitaire
 - doc peda
-	* fiche d'activité
+	* fiche d'activitÃ©
 	* doc offi
 		- statut
 		- PE
@@ -98,10 +98,10 @@ hum ... quand j'y refléchit ca revient aux pages dans lesquelles "tout le monde"
 - lieu
 	* fiche de route
 	* descriptiof
-- organigramme bureau (généré automatique grace aux données personnelles : fonctions) ;
-- trombi inscrit (généré automatique grace aux données personnelles : fonctions, équipage, etc.) ;
+- organigramme bureau (gÃ©nÃ©rÃ© automatique grace aux donnÃ©es personnelles : fonctions) ;
+- trombi inscrit (gÃ©nÃ©rÃ© automatique grace aux donnÃ©es personnelles : fonctions, Ã©quipage, etc.) ;
 
-## Page Partie Privé
+## Page Partie PrivÃ©
 ### Accueuil
 Affichage de la liste des articles/pages/etc. modifiables
 ### Menu
@@ -109,10 +109,10 @@ Affichage de la liste des articles/pages/etc. modifiables
 	* tranche d'age ;
 	* equipage ;
 	* fonction .
-- Entités modifiables dans le blog ;
-- Entités modifiables dans les pages ;
-- Entités modifiables dans le wiki ;
-- Entités modifiables dans le calendrier.
+- EntitÃ©s modifiables dans le blog ;
+- EntitÃ©s modifiables dans les pages ;
+- EntitÃ©s modifiables dans le wiki ;
+- EntitÃ©s modifiables dans le calendrier.
 
 ## Gestion des droits
 Panneau d'administration permettant de gerer les droits 
@@ -123,9 +123,9 @@ Panneau d'administration permettant de gerer les droits
 - CRUD+Validation Tranche d'age
 
 ## Gestion du tri
-La gestion des entités se fait par arboressence.
-Il y a des catégories, des sous catégories etc.
-Attention une sous catégorie peut appartenir a plusieurs catégorie (exemple : Kumar qui est dans conseil et parent ainé ... pas un exemple pour catégorie mais que pour personne :S)
+La gestion des entitÃ©s se fait par arboressence.
+Il y a des catÃ©gories, des sous catÃ©gories etc.
+Attention une sous catÃ©gorie peut appartenir a plusieurs catÃ©gorie (exemple : Kumar qui est dans conseil et parent ainÃ© ... pas un exemple pour catÃ©gorie mais que pour personne :S)
 ### Gestion des categories (Pages, Articles)
 ### Gestion des Types (Evenement)
 ### Gestion des Tranches d'age
@@ -135,21 +135,21 @@ Attention une sous catégorie peut appartenir a plusieurs catégorie (exemple : Ku
 - Ingredient
 - Packaging
 - Prix/kilo
-- Quantité souhaité
-- Quantité/(loup/ecle/ainé/adulte)
+- QuantitÃ© souhaitÃ©
+- QuantitÃ©/(loup/ecle/ainÃ©/adulte)
 ### Menu
-- Menu antérieur
+- Menu antÃ©rieur
 ### Plat
-- Permet de d'avoir dirrectement les différents ingrédients (reste réglable et avec un bouton reset si l'on veut remettre les quantité par défaut)
+- Permet de d'avoir dirrectement les diffÃ©rents ingrÃ©dients (reste rÃ©glable et avec un bouton reset si l'on veut remettre les quantitÃ© par dÃ©faut)
 
-## Gestion du matériel
-- matériel présent au week-end matériel sorti (en reference au matériel demndé pour un evenemnt)
-- matériel abimé
-- matériel a acheter
-### Liste de matériel
+## Gestion du matÃ©riel
+- matÃ©riel prÃ©sent au week-end matÃ©riel sorti (en reference au matÃ©riel demndÃ© pour un evenemnt)
+- matÃ©riel abimÃ©
+- matÃ©riel a acheter
+### Liste de matÃ©riel
 - composition
 - prix
-- état
+- Ã©tat
 - marquage
 
 ## Compta
