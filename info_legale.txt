@@ -1,0 +1,28 @@
+CNIL
+
+info legal
+numero de declaration cnil
+
+modele de mention : notee fichier a ete declare
+nous sommes les seuls destinateurs
+
+je suis un professionnel 
+	-> effectuer une demarche 
+	-> declarer un fichier 
+	-> acceder aux formulaire
+	-> Declaration normal
+	
+francoise Pargoud 01.53.73.22.75
+
+
+AFNIC
+
+3939
+
+whois 
+bureau d'enregistrement 
+
+adhéré app
+certificat
+
+http://www.app.asso.fr/adherer/adhesion-app.html
