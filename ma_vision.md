@@ -88,14 +88,15 @@ Dans la partie privé on a
 ###Wiki
 hum ... quand j'y refléchit ca revient aux pages dans lesquelles "tout le monde" pourrait écrire
 ### Dépot documentaire
-- doc inscription
+Les documents seront sous forme de liste avec tout les documents trié par catégories
+- doc inscription (formulaire permettant d'entré les donnée de compte directement)
 	* camp
 		- hiver
 		- primptemps
 		- été
 	* année
-	* sanitaire
-- doc peda
+	* fiche sanitaire
+- doc pedagogique
 	* fiche d'activité
 	* doc offi
 		- statut
@@ -125,6 +126,11 @@ Affichage de la liste des articles/pages/etc. modifiables
 - Entités modifiables dans les pages ;
 - Entités modifiables dans le wiki ;
 - Entités modifiables dans le calendrier.
+- Gestion des droits (pour les super admin gestion de l'affichage des parties public/privée)
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
 
 ## Gestion des droits
 Panneau d'administration permettant de gerer les droits (personne/tranche d'age/fonction)
@@ -182,3 +188,6 @@ Archivage toutes les données de l'année 2000 sont archivés au 1 mars 2001
 
 ## Application smartphone
 Acces hors ligne
+
+intendance mode picnic
+gestion d'envent de plus d'une semaine
