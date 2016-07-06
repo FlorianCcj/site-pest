@@ -197,12 +197,23 @@ Meme fonctionnalité que le site
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
-
+## Matériel
 ### Equiper nos responsables
+- lampe
+- couvers
+- popote
+- briquet
+- tirre-tique
+- tic tic
+- tente
+- tarp
 - smartphone
 
 ## Compta
 ## Galerie photo
+
+## Forum
+http://trello.com
 
 
 
