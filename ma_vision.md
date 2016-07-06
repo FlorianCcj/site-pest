@@ -128,29 +128,34 @@ Affichage de la liste des articles/pages/etc. modifiables
 - Entités modifiables dans le calendrier.
 - Gestion des droits (pour les super admin gestion de l'affichage des parties public/privée)
 
-----------------------------------------------------------------------
-----------------------------------------------------------------------
-----------------------------------------------------------------------
 
 ## Gestion des droits
 Panneau d'administration permettant de gerer les droits (personne/tranche d'age/fonction)
-- CRUD+Validation Page
-- CRUD+Validation Blog
-- CRUD+Validation Categorie
-- CRUD+Validation Type
-- CRUD+Validation Tranche d'age
 
-## Gestion du tri
+colonne : tranche d'age/fonction
+sous collone : CRUD + Modération
+ligne (partie) : Page, Blog, Evenement
+ligne (classification) : Categorie d'article, categorie de page, Type d'evenement, tranche d'age
+
+## Gestion des classifications
+todo trouver un systeme ... ca me plait pas 
+
+Une page par arbre
+
 La gestion des entités se fait par arboressence.
 
 Il y a des catégories, des sous catégories etc.
 
 Attention une sous catégorie peut appartenir a plusieurs catégorie (exemple : Kumar qui est dans conseil et parent ainé ... pas un exemple pour catégorie mais que pour personne :S)
+
 ### Gestion des categories (Pages, Articles)
 ### Gestion des Types (Evenement)
-### Gestion des Tranches d'age
+### Gestion des Tranches d'age (et fonction)
+
+
 
 ## Intendance
+Permet de generer des menu des listes de courses, des inventaires, des plats pré enregistré ...
 Stock restant au local
 ### Ingredient
 - Ingredient
@@ -160,13 +165,16 @@ Stock restant au local
 - Quantité/(loup/ecle/ainé/adulte)
 
 ### Menu
+- CRUD menu
 - Menu antérieur
 
 ### Plat
+- CRUD plat
 - Permet de d'avoir dirrectement les différents ingrédients (reste réglable et avec un bouton reset si l'on veut remettre les quantité par défaut)
 
 ## Gestion du matériel
-séparer le matériel de camp et le matériel de week-end.
+Gestion du matériel qui entre/sort/est présent au local
+Différente catégorie (camp, week-end, intendance, etc.)
 - matériel présent au week-end matériel sorti (en reference au matériel demandé pour un evenemnt)
 - matériel abimé
 - matériel a acheter
@@ -177,17 +185,29 @@ séparer le matériel de camp et le matériel de week-end.
 - état
 - marquage
 
+## Archivage
+Archivage toutes les données de l'année 2000 sont archivés au 1 mars 2001
+
+## Application smartphone
+Acces hors ligne
+Meme fonctionnalité que le site
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
 ### Equiper nos responsables
 - smartphone
 
 ## Compta
 ## Galerie photo
 
-## Archivage
-Archivage toutes les données de l'année 2000 sont archivés au 1 mars 2001
 
-## Application smartphone
-Acces hors ligne
 
+
++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++
 intendance mode picnic
 gestion d'envent de plus d'une semaine
