@@ -222,3 +222,13 @@ http://trello.com
 +++++++++++++++++++++++++++++++++++++++++++++++
 intendance mode picnic
 gestion d'envent de plus d'une semaine
+
+materiel :
+- composition d'une collection
+- contrainte (mat = 2.5m, 3 morceau ...)
+
+Menu :
+- materiel theoriquement utilisé
+- cuisson de base (recette initiale)
+- si recette mal creer, mis en draft visible et modifiable par tous
+
