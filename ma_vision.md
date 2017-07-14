@@ -4,7 +4,7 @@
 - Wiki + Doc
 - Calendrier
 - Matériel
-- Intendance
+- Intendance 
 - Infos légales
 - Contacts
 - lien divers
@@ -232,3 +232,7 @@ Menu :
 - cuisson de base (recette initiale)
 - si recette mal creer, mis en draft visible et modifiable par tous
 
+
+
+suppression de mon compte au bout de XX mois d'inactivité
+lien d'acces de maniere a ce que ne soit accessible que par les inscrit et ceux qui ont le lien
