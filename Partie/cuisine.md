@@ -1,6 +1,6 @@
 # Intendance
 ## Page
-# List
+### List de recette
 Liste afficher dans une datatable
 recherche :
 	- nom
@@ -10,7 +10,13 @@ recherche :
 	- matériels (possibilités de quantité)
 	- note (avec type de note)
 	- nombres de varianteee
-# Detail
+### Detail
+- Photo
+- Liste des notes
+- Liste des ingredients
+- Liste du matériels
+- Liste des variantes
+- Liste des etapes + photo (3 etapes par ligne, photo avec texte explicatif en dessous, commentaire affichable)
 ## Onthologie
 ### Note
 * Nom : Grade
