@@ -1,5 +1,20 @@
 # Intendance
 ## Page
+### Sommaire des pages
+ * Ingredient
+ 	* Creation
+ 	* Edition
+ 	* Liste
+ 	* Confirmer une suppresion (pas besoin de page pour supprimer et meme eventuellement la confirmation peut se faire sur modal)
+ 	* Liste d'ingredient en stock
+ 	* Liste de course
+ * Ustensile
+ 	* Creation
+ 	* Edition
+ 	* Liste
+ 	* Confirmer une suppresion
+ 	* Liste d'ustensile en stock
+ 	* Liste de course
 ### List de recette
 Liste afficher dans une datatable
 recherche :
@@ -10,7 +25,7 @@ recherche :
 	- matériels (possibilités de quantité)
 	- note (avec type de note)
 	- nombres de varianteee
-### Detail
+### Detail d'une recette
 - Photo
 - Liste des notes
 - Liste des ingredients
