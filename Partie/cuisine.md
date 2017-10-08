@@ -2,6 +2,7 @@
 ## Page
 ### Sommaire des pages
  * Ingredient
+ 	* Affichage
  	* Creation
  	* Edition
  	* Liste
@@ -9,6 +10,7 @@
  	* Liste d'ingredient en stock
  	* Liste de course
  * Ustensile
+ 	* Affichage
  	* Creation
  	* Edition
  	* Liste
